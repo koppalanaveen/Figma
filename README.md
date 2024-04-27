@@ -190,8 +190,10 @@ color: #15DDE9;
  word-wrap: break-word
 ```
 ## OUTPUT:
-![alt text](out2.jpg)
-![alt text](out4.jpg)
-![alt text](out3.jpg)
+![out1](https://github.com/koppalanaveen/Figma/assets/152313952/b9be49e8-9ef6-4c6f-bf29-a72271f66b73)
+
+![out2](https://github.com/koppalanaveen/Figma/assets/152313952/8a63e44e-80af-487a-93ae-b3c91c27c682)
+
+![out3](https://github.com/koppalanaveen/Figma/assets/152313952/d68c5470-02f6-40ed-82bc-4fe632fa88e4)
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
